@@ -7,6 +7,7 @@ iAuthX is a set of !WebServices designed for Cloud-based implementation as a par
 = Related Projects =
  * [https://code.google.com/p/icor3/ iCOR3 Project]
  * [https://code.google.com/p/imdirectory/ iMDirectory Project]
+ * [https://code.google.com/p/ipush/ iPush Project]
 
 =Use Cases - Examples=
 ==Federate identity across several identity boundaries==
