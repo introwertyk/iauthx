@@ -1,0 +1,9 @@
+#iAuthX About
+<wiki:toc max_depth="1" />
+
+= Introduction =
+iAuthX is a set of !WebServices designed for Cloud-based implementation as a part of iCOR3 framework. It delivers core interfaces for Authentication and Authorization. It enables large enterprises and organizations to securely authentication and authorize FiD outside legacy boundaries using Cloud services.
+
+= Related Projects =
+ * [https://code.google.com/p/icor3/ iCOR3 Project]
+ * [https://code.google.com/p/imdirectory/ iMDirectory Project]
